@@ -12,9 +12,11 @@ This project uses python to create a program that solves Sudoku questions. The m
   then type in "python sudoku.py" to run the code. If you use a code editor or IDE, you can run the code within the software.
   </p><br>
   <h3> Links to download python, vs code, and Pycharm </h3>
-  <a href="https://www.python.org/">Download Python</a>
-  <a href="https://www.jetbrains.com/pycharm/">Download Pycharm</a>
-  <a href="https://code.visualstudio.com/">Download Visual Studio Code</a>
+  <ul>
+    <li><a href="https://www.python.org/">Download Python</a></li>
+    <li><a href="https://www.jetbrains.com/pycharm/">Download Pycharm</a></li>
+    <li><a href="https://code.visualstudio.com/">Download Visual Studio Code</a></li>
+  </ul>
 </body>
 
 
